@@ -1,0 +1,16 @@
+.container {
+    max-width: 500px;
+    margin: auto;
+    padding: 1rem;
+  }
+  
+  input[type="text"], input[type="date"] {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    width: 70%;
+  }
+  
+  button {
+    padding: 0.5rem;
+  }
+  
